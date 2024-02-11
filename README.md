@@ -8,7 +8,7 @@ As mentioned above, I wrote this to learn more about Rust as a language, which i
 
 Here's a short video detailed the program as well as what I learned:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/yG_ymp-CYUc)
 
 # Development Environment
 
